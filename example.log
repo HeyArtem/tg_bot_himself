@@ -1,0 +1,3 @@
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
