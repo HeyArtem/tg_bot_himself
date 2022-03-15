@@ -9,5 +9,5 @@ BOT_TOKEN = str(os.getenv("BOT_TOKEN"))
 
 
 admins_id = [
-    564764469
+    ЗДЕСЬ ВПИСАТЬ СВОЙ ID
 ]
